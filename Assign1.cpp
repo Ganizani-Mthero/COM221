@@ -36,6 +36,4 @@ int main() {
 
     return 0;
 }
-
    //giving a seed using time
-
