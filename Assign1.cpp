@@ -5,6 +5,7 @@ using namespace std;
 
 int main() {
    
+   //giving a seed using time
     srand(static_cast<unsigned int>(time(nullptr)));
 
     // Generate a random number between 0 and 11
@@ -35,3 +36,6 @@ int main() {
 
     return 0;
 }
+
+   //giving a seed using time
+
